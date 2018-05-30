@@ -1,0 +1,28 @@
+﻿<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" id="mag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 351 369" style="enable-background:new 0 0 351 369;" xml:space="preserve" width="351" height="369">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#CCCCCC;stroke-width:8;stroke-miterlimit:10;}
+
+	#details{
+	     display: block;
+	}
+
+	@media screen and (max-width: 150px;) {
+
+	    #details {
+	         display: none;
+	    }
+
+    }
+</style>
+<g id="mag">
+	<circle id="Circle" class="st0" cx="180" cy="180" r="108" />
+	
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -62.0034 145.2621)" class="st0" cx="144.3" cy="147.5" rx="34.7" ry="34.7" />
+	<path class="st0" d="M240.4,229.7c3.9,3.9,3.8,10.2-0.1,14.1l0,0c-3.9,3.9-10.2,3.9-14.1,0.1l-62.7-62.7c-4.2-4.2,3.3-3.3,7.2-7.2   l0,0c3.9-3.9,2.7-11.2,7-7L240.4,229.7z" />
+</g>
+<g id="details">
+	<path class="st0" d="M128.8,163c-8.6-8.6-8.6-22.5,0-31" />
+	<path class="st0" d="M177.7,195.2l-14.1-14.1c-4.2-4.2,3.3-3.3,7.2-7.2l0,0c3.9-3.9,2.7-11.2,7-7l14.1,14.1L177.7,195.2z" />
+</g>
+</svg>
